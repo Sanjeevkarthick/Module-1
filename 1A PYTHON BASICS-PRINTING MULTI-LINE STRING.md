@@ -33,8 +33,7 @@ print(string_double_quotes)
 
 <img width="1182" height="418" alt="image" src="https://github.com/user-attachments/assets/c3069fe2-1239-45f0-b3d6-e3c2d7d96a78" />
 
-## RESULT
-Thus, the Python program to print a string in multiple lines using triple quotes has been successfully executed and the output is verified.
+
 
 ## RESULT
 Thus, the Python program to print a string in multiple lines using triple quotes has been successfully executed and the output is verified.
